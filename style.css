@@ -1,0 +1,41 @@
+.mainbox {
+
+  
+  padding: 10px;
+  background-color: purple;
+}
+
+.innerbox2 {
+
+  
+  background-color: blue;
+  padding: 10px;
+
+}
+
+.innermostdiv {
+
+  
+  padding: 10px;
+  background-color: red;
+
+}
+
+.p1 {
+
+  color: yellow;
+  font-size: 20pt;
+  margin-bottom: 0;
+  margin-left: 3px;
+  margin: 10px;
+  
+  
+}
+
+.p2 {
+
+  color: white;
+  font-size: 20pt;
+  margin: 10px;
+  
+}
